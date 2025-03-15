@@ -30,7 +30,6 @@
   </a>
 </div>
 
-
 <h5 align="center">
 Leave a star if you like the project! ⭐️
 </h5>
